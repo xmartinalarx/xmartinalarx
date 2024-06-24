@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="./Sin título.png" />
+  <img height="280" src="./Sin título.png" />
 <!--   <h2 style="margin-top: -50px;">Martin Alarcon</h2> -->
 </div>
 
