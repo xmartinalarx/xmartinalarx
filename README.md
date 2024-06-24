@@ -2,14 +2,12 @@
 
 <div align="center">
   <img height="286" src="https://hermes.dio.me/articles/cover/1ebc7779-1d83-476e-8a65-3eac63ba951b.jpg" />
-  <h2>Martin Alarcon</h2>
+  <h2 style="margin-top: -50px;">Martin Alarcon</h2>
 </div>
 
 ###
 
-<br clear="both">
-
-<h3 align="left">Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Con experiencia en desarrollo web, mi objetivo es facilitar la gestión de negocios y optimizar procesos mediante el uso de tecnologías modernas.</h3>
+<h3 align="center">🚀 Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Con experiencia en desarrollo web, mi objetivo es facilitar la gestión de negocios y optimizar procesos mediante el uso de tecnologías modernas. 🌐</h3>
 
 ###
 
@@ -36,6 +34,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/xmartinalarx/xmartinalarx/output/snake.svg" alt="Snake animation" />
 
 ###
 
